@@ -18,3 +18,9 @@
 - File output using ofstream
 - Appending data using ios::app
 - Processing and reporting data
+## How to Run
+
+1. Open the C++ source file in Visual Studio.
+2. Make sure the required text files are in the project folder.
+3. Build and run the program.
+4. Follow the instructions displayed on the screen.
