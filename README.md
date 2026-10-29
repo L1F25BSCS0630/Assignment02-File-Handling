@@ -31,3 +31,6 @@
 - Q3: Scholarship List
 - Q4: Heart Rate Cleaner
 - Q5: Expense Tracker
+## Learning Outcomes
+
+This assignment helped me practice C++ file handling, reading and writing files, appending records, processing data, and generating reports.
