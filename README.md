@@ -24,3 +24,10 @@
 2. Make sure the required text files are in the project folder.
 3. Build and run the program.
 4. Follow the instructions displayed on the screen.
+## Assignment Questions
+
+- Q1: Stock Debugging
+- Q2: Parking Report
+- Q3: Scholarship List
+- Q4: Heart Rate Cleaner
+- Q5: Expense Tracker
