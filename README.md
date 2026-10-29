@@ -12,3 +12,9 @@
 3. `Q3_scholarship.cpp`
 4. `Q4_heart_rate.cpp`
 5. `Q5_expense_tracker.cpp`
+## Concepts Practiced
+
+- File input using ifstream
+- File output using ofstream
+- Appending data using ios::app
+- Processing and reporting data
